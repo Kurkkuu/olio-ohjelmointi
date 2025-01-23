@@ -1,4 +1,7 @@
-oliovkt1/build
+
+oliovkt1/build/
 oliovkt1/*.user
-oliovkt2/build
+oliovkt2/build/
 oliovkt2/*.user
+oliovkt3/build/
+oliovkt3/*.user
